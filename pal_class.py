@@ -1,0 +1,5 @@
+age = int(input("How old are you?"))
+print (age + 10)
+num = (5/3)
+print (float(num))
+print (int(num))
